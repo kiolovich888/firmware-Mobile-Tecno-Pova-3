@@ -1,8 +1,11 @@
-# firmware-Mobile-Tecno-Pova-3
- Файлы для прошивки телефона Tecno Pova 3
+# firmware-for-Mobile-Tecno-Pova-3
+# Скачать Файлы для прошивки телефона Tecno Pova 3:
+https://drive.google.com/file/d/1nkjIMTP4QhumTqXUglEQguU-yRTTSRfK/view?usp=sharing - архив с прошивкой;
+https://drive.google.com/file/d/1G1Z32aoCaV_MiQdcQQ5QPoCs0k52rmtz/view?usp=sharing - архив самой программы Flash Tool;
+https://drive.google.com/file/d/1YsT5SDLhJJFq7oku7RCsnkC4YSQPTTmo/view?usp=sharing - архивы с драйверами для МТК;
 
 
-Инструкция для прошивки смартфона Tecno Pova 3
+# Инструкция для прошивки смартфона Tecno Pova 3
 Важно: Перед тем как начать процедуру прошивки, настоятельно рекомендую сохранить все важные данные с вашего смартфона в безопастное место!
 
 Первым делом в настройках сматфона в режиме Для разработчиков активируем Заводскую разблокировку.
