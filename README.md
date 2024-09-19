@@ -1,7 +1,7 @@
 # firmware-for-Mobile-Tecno-Pova-3
 # Скачать Файлы для прошивки телефона Tecno Pova 3:
 |------------------------------------------------------------------------------------------------------------------------|
-| https://drive.google.com/file/d/1nkjIMTP4QhumTqXUglEQguU-yRTTSRfK/view?usp=sharing - архив с прошивкой;                |
+|https://drive.google.com/file/d/1nkjIMTP4QhumTqXUglEQguU-yRTTSRfK/view?usp=sharing - архив с прошивкой;                |
 |------------------------------------------------------------------------------------------------------------------------|
 | https://drive.google.com/file/d/1G1Z32aoCaV_MiQdcQQ5QPoCs0k52rmtz/view?usp=sharing - архив самой программы Flash Tool; |
 |------------------------------------------------------------------------------------------------------------------------|
